@@ -15,7 +15,7 @@ a. Get started by clicking the Start Game button.
 b. Select one of the four possible answer for each question
 
 #========== 3. How to get started? ==========
-Please visit https://nicolaskennof.github.io/TriviaGame/
+Please visit https://nicolaskennof.github.io/06-TriviaGame/
 
 #========== 4. Who maintains and contributes? ==========
 Nicolas Kennof is the main contributor to this project.
